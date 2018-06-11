@@ -1,4 +1,4 @@
-# Material Design with Android Design Support Library
+# City Pilot Android App based on Material Design with Android Design Support Library
 
 Android Design Support library has been released and samples are coming up all over the place.
 This sample is bringing Material Design implementation using Android Design Support Library.
